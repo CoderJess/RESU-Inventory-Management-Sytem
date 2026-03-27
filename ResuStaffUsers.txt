@@ -1,0 +1,3 @@
+admin001,Alice Johnson,Inventory Manager,password123
+cashier001,John Doe,Cashier,password456
+manager001,Jane Smith,Store Manager,password789

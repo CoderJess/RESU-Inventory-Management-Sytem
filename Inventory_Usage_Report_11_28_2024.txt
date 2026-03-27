@@ -1,0 +1,10 @@
+Exported on: 11_28_2024
+Time Range: monthly
+
+Inventory Usage Report (monthly)
+
+Item Name		Usage Quantity
+
+No items found in the selected time range.
+
+Top 5 Most Frequently Used Items:

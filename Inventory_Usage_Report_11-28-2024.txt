@@ -1,0 +1,13 @@
+Exported on: 11-28-2024
+Time Range: weekly
+
+Inventory Usage Report (weekly)
+
+Item Name		Usage Quantity
+
+No items found in the selected time range.
+
+Top 5 Most Frequently Used Items:
+Item2		50
+Item1		20
+Item3		10

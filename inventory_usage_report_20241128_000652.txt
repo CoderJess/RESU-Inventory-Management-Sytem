@@ -1,0 +1,14 @@
+Exported on: 20241128_000652
+Time Range: Weekly
+
+Inventory Usage Report (Weekly)
+
+Item Name		Usage Quantity
+Item A		40
+Item B		30
+Item C		50
+
+Top 5 Most Frequently Used Items:
+Item C		50
+Item A		40
+Item B		30

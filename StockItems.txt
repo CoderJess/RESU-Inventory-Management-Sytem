@@ -1,0 +1,5 @@
+Pen,P001,100,1.50
+Notebook,N001,50,3.00
+Stapler,S001,30,5.00
+Highlighter,H001,200,1.00
+Eraser,E001,150,0.50

@@ -1,0 +1,15 @@
+pens,50,50000.0
+books,50,50000.0
+crayons,50,50000.0
+pencils,50,50000.0
+sharpeners,50,50000.0
+erasers,50,500000.0
+rulers,50,50000.0
+Plain Papers,100,500.0
+pens,10,50.0
+geometry sets,0,50.0
+geometry sets,0,50.0
+pens,10,50.0
+pens,10,50.0
+pens,10,50.0
+story boo,7,5000.0

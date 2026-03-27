@@ -1,0 +1,10 @@
+Customer List
+================
+Customer: Jack Daniels | Contact Info: 777777 | Address: 111 Car Lane
+Purchase History:
+Item: pen | Quantity: 5 | Date: Wed Feb 18 13:39:43 EST 2026
+Payment History:
+Amount: 656000.00 | Method: card | Date: Wed Feb 18 13:39:02 EST 2026
+Customer: Jack Daniels | Contact Info: 5555777 | Address: 111 Cat Lane
+Purchase History:
+Payment History:
